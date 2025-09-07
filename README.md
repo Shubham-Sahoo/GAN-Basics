@@ -1,2 +1,6 @@
 # GAN-Basics
-Learn and Code different types of GANs
+
+## GAN Training Progress - Mode Collapse
+
+![GAN Training](GAN-Basic/gan_training.gif)
+
